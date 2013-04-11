@@ -14,3 +14,8 @@ diagonalls-0
 for i in range (0,19):
     for j in range (0, 15):
         
+def prodHorizontals(grid, i,j):
+    if index > len(grid[j])-4:
+        pass
+    else:
+        return 
